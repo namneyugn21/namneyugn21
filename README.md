@@ -4,9 +4,10 @@ My name is Nam, and I am a computer science student at Simon Fraser University i
 With a concentration in Information Systems and Programming Languages, I am passionate about web development and human-centered computing.<br>
 Outside of classroom, I enjoy traveling and taking aesthetic pictures around the city of Vancouver!
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=namneyugn21&theme=react&hide_border=false" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namneyugn21&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=namneyugn21&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=namneyugn21&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=namneyugn21&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=namneyugn21&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" /></a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
