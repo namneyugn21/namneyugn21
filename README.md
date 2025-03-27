@@ -1,7 +1,7 @@
 ## About Me
 Xin chào ! (that's "Hello" in Vietnamese) <br>
 My name is Nam, and I am a computer science student at Simon Fraser University in Burnaby, British Columbia. <br>
-With a concentration in Information Systems and Programming Languages, I am passionate about web development and human-centered computing. <br>
+With a concentration in Information Systems and Programming Languages, I am passionate about web and mobile development and human-computer interaction (HCI). <br>
 Outside of classroom, I enjoy traveling and taking aesthetic pictures around the city of Vancouver!
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=namneyugn21&card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
